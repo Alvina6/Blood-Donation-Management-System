@@ -1,7 +1,5 @@
 # Blood-Donation-Management-System
 
-# Blood Donation Management System
-
 Welcome to the **Blood Donation Management System**!  
 This project helps manage blood donations, donors, and requests efficiently.
 
@@ -33,8 +31,6 @@ This project helps manage blood donations, donors, and requests efficiently.
 4. **Run the application:**
     ```bash
     npm start
-    # or
-    ```
 
 ## 📚 Usage
 
@@ -53,12 +49,6 @@ This project helps manage blood donations, donors, and requests efficiently.
 
 ## 💬 Support
 
-For questions or support, open an issue or contact [your-github-username](https://github.com/Alvina6).
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
+For questions or support, please open an issue or contact us at https://github.com/Alvina6.
 
 > _Thank you for contributing to saving lives!_
